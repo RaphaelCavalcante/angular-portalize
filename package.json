@@ -1,0 +1,24 @@
+{
+  "name": "angular-portalize",
+  "version": "1.0.0",
+  "description": "Handle to create portal ready products using angular/single-spa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelCavalcante/angular-portalize.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-single-spa",
+    "single-spa"
+  ],
+  "author": "Raphael Hounsell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelCavalcante/angular-portalize/issues"
+  },
+  "homepage": "https://github.com/RaphaelCavalcante/angular-portalize#readme"
+}
